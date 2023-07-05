@@ -305,6 +305,10 @@
     align-self: start;
 }
 
+.footer__socials-icon { 
+    height: 48px;
+}
+
 .footer__socials {
     display: flex;
     width: 240px;
@@ -314,7 +318,3 @@
     flex-direction: row;;
 }
 
-.footer__socials-icon { 
-    
-    height: 48px;
-}
