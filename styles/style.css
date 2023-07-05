@@ -1,4 +1,4 @@
-.page{
+.page {
     max-width:1440px;
     margin: auto;
 }
@@ -129,7 +129,6 @@
     grid-column: 1/2;
     justify-self: end;
     align-self: center;
-    justify-self: end;
     color: #fff;
     z-index: 1;
     font-family: Raleway, sans-serif;
@@ -141,7 +140,7 @@
     margin: 0 5px 0 0;
 }
 
-.bet-button{
+.bet-button {
     color: #fff;
     border: 1px solid #fff;
     background-color: transparent;
@@ -315,6 +314,6 @@
     flex-direction: row;;
 }
 
-.footer__socials-icon{
+.footer__socials-icon { 
     height: 48px;
 }
